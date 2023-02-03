@@ -7,3 +7,45 @@ h1{
     font-size: 80px;
     text-align: center;
 }
+img{
+    margin: 0px;
+}
+#egg_tomato{
+    position: fixed;
+    left: 50%;
+    margin: 0px;
+}
+#egg1{
+    position: fixed;
+    left: 5%;
+    margin: 0px;
+}
+#egg2{
+    position: fixed;
+    left: 15%;
+    margin: 0px;
+}
+#egg3{
+    position: fixed;
+    left: 25%;
+    margin: 0px;
+}
+#pan{
+    position: fixed;
+    left: 37%;
+}
+#tomato1{
+    position: fixed;
+    left: 65%;
+    margin: 0px;
+}
+#tomato2{
+    position: fixed;
+    left: 75%;
+    margin: 0px;
+}
+#tomato3{
+    position: fixed;
+    left: 85%;
+    margin: 0px;
+}
